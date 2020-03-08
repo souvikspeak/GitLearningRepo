@@ -2,3 +2,5 @@ Basic git commands
 1.git init
 2.git add<file_name>
 3.git status
+
+Author-Souvik Debnath

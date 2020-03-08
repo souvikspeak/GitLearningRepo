@@ -4,3 +4,4 @@ Basic git commands
 3.git status
 
 Author-Souvik Debnath
+       Associate Analyst
